@@ -22,4 +22,3 @@ brain-games = "brain_games.scripts.brain_games:main"
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
-
